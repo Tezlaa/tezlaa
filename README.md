@@ -8,7 +8,7 @@
 <div align="center">
   <img width="844" height="199" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tezlaa&theme=github_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tezlaa&theme=github_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tezlaa&theme=github_dark&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tezlaa&theme=github_dark&utcOffset=+2">
 </div>
 <br>
 <br>
