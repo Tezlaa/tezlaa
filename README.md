@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Telegram - @TTezla**
 
-- 📚I’m currently learning **parsing, aiogram**
+- 📚I’m currently learning **Django, aiogram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
