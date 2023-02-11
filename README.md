@@ -1,4 +1,4 @@
-<h1 align="center">Beginner developer in python🐍 from Ukraine🔥</h1>
+<h1 align="center">Python developer🐍 from Ukraine🔥</h1>
 
 <p align="center"> 
   Visitor count<br>
