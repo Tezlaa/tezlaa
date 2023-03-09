@@ -7,6 +7,7 @@
 
 <div align="center">
   <img width="844" height="199" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tezlaa&theme=github_dark">
+  <br> <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tezlaa&theme=github_dark&utcOffset=+2">
     <img height="199" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tezlaa&hide_progress=false&theme=github_dark&hide_border=True&hide_title=True">
 </div>
