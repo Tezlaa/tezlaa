@@ -53,3 +53,8 @@
 <p align="center">
   <img alig src="https://github.com/Tezlaa/Tezlaa/blob/output/github-contribution-grid-snake.svg" />
 </p>
+<p align="center>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tezlaa&theme=github-compact&hide_border=true">
+  </a>       
+</p>
