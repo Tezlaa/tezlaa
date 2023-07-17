@@ -1,10 +1,5 @@
 <h1 align="center">Python developer🐍 from Ukraine🔥</h1>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Tezlaa/count.svg" />
-</p>
-
 <div align="center">
   <img width="844" height="199" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tezlaa&theme=github_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tezlaa&theme=github_dark&utcOffset=+2">
