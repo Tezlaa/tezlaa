@@ -5,10 +5,15 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tezlaa&theme=github_dark&utcOffset=+2">
     <img height="199" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tezlaa&hide_progress=false&theme=github_dark&hide_border=True&hide_title=True&cache_seconds=100">
 </div>
+<p align="center>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tezlaa&theme=github-compact&hide_border=true">
+  </a>       
+</p>
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=10000&pause=1000&color=0CA71D&width=435&height=30&lines=Hello+world+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=10000&pause=1000&color=0CA71D&width=435&height=30&lines=Hello+world+!+I`m+Bogdan.)](https://git.io/typing-svg)
 
 - 🎓 I’m currently learning **Krivoy Rog National University**
 
@@ -47,9 +52,4 @@
  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="cplusplus" width="40" height="40"/> </a></p>
 <p align="center">
   <img alig src="https://github.com/Tezlaa/Tezlaa/blob/output/github-contribution-grid-snake.svg" />
-</p>
-<p align="center>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tezlaa&theme=github-compact&hide_border=true">
-  </a>       
 </p>
