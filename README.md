@@ -48,6 +48,7 @@
                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="40" height="40"/> </a>
                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" > <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" width="40" height="40"/> </a>
                 <a href="https://redis.io/" target="_blank" rel="noreferrer" > <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width="40" height="40"/> </a>
+                <a href="https://docs.celeryq.dev/en/stable/getting-started/introduction.html" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/1075/celery.png" alt="git" width="40" height="40"/> </a>
             </div>
             <div>
                 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
