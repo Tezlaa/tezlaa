@@ -5,11 +5,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tezlaa&theme=github_dark&utcOffset=+2">
     <img height="199" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tezlaa&hide_progress=false&theme=github_dark&hide_border=True&hide_title=True&cache_seconds=100">
 </div>
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tezlaa&theme=github-compact&hide_border=true">
-  </a>       
-</p>
 <br>
 <br>
 
