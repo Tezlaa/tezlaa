@@ -4,6 +4,9 @@
   <img width="844" height="199" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tezlaa&theme=github_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tezlaa&theme=github_dark&utcOffset=+2">
     <img height="199" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tezlaa&hide_progress=false&theme=github_dark&hide_border=True&hide_title=True&cache_seconds=100">
+  <a href="https://leetcode.com/Tezlaa/"> 
+    <img src="https://leetcode.card.workers.dev/Tezlaa?theme=dark&font=source_code_pro&extension=null">
+  </a>
 </div>
 <br>
 <br>
