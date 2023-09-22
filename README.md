@@ -5,7 +5,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tezlaa&theme=github_dark&utcOffset=+2">
     <img height="199" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tezlaa&hide_progress=false&theme=github_dark&hide_border=True&hide_title=True&cache_seconds=100">
   <a href="https://leetcode.com/Tezlaa/"> 
-    <img src="https://leetcode.card.workers.dev/Tezlaa?theme=dark&font=source_code_pro&extension=null">
+    <img src="https://leetcard.jacoblin.cool/Tezlaa?ext=heatmap">
   </a>
 </div>
 <br>
@@ -19,15 +19,15 @@
 
 - 📫 How to reach me **Telegram - @TTezla**
 
-- 📚I’m currently learning **Django, DRF**
+- 📚I’m currently learning **Django, DRF, algorithmics**
 
     <div>
         <h3 align="left">Connect with me:</h3>
         <p align="left">
-            <a href="https://discord.com/users/339340604272017409/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+            <a href="https://discord.com/users/339340604272017409/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="40" /></a>
             <a href="https://www.instagram.com/tezla_xix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tezla_xix/" height="30" width="40" /></a>
             <a href="https://t.me/TTezla" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://t.me/TTezla" height="30" width="30" /></a> 
-            <a href="https://www.linkedin.com/in/bogdan-tishenko-7abbbb155/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="32" width="32" /></a>
+            <a href="www.linkedin.com/in/tishenko-bogdan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="32" width="32" /></a>
         </p>
         <h3 align="left">Languages and Tools:</h3>
         <p align="center">
