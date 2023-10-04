@@ -15,11 +15,7 @@
 
 - 🎓 I’m currently studying at **Krivoy Rog National University**
 
-- 👨‍💻 All of my projects are available at **github**
-
 - 📫 How to reach me **Telegram - @TTezla**
-
-- 📚I’m currently learning **Django, DRF, algorithmics**
 
     <div>
         <h3 align="left">Connect with me:</h3>
