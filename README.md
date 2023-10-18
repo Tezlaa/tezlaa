@@ -20,8 +20,6 @@
     <div>
         <h3 align="left">Connect with me:</h3>
         <p align="left">
-            <a href="https://discord.com/users/339340604272017409/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="40" /></a>
-            <a href="https://www.instagram.com/tezla_xix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tezla_xix/" height="30" width="40" /></a>
             <a href="https://t.me/TTezla" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://t.me/TTezla" height="30" width="30" /></a> 
             <a href="www.linkedin.com/in/tishenko-bogdan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="32" width="32" /></a>
         </p>
