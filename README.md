@@ -11,7 +11,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=10000&pause=1000&color=0CA71D&width=435&height=30&lines=Hello+world+!+I`m+Bogdan.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=10000&pause=1000&color=0CA71D&width=435&height=30&lines=Hello+world!+I`m+Bogdan.)](https://git.io/typing-svg)
 
 - 🎓 I’m currently studying at **Krivoy Rog National University**
 
