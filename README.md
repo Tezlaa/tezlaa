@@ -1,4 +1,4 @@
-<h1 align="center">Python developer🐍 from Ukraine🔥</h1>
+<h1 align="center">Software Engineer🐍 from Ukraine🔥</h1>
 
 <div align="center">
   <img width="844" height="199" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tezlaa&theme=github_dark">
