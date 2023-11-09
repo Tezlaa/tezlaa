@@ -21,7 +21,7 @@
         <h3 align="left">Connect with me:</h3>
         <p align="left">
             <a href="https://t.me/TTezla" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://t.me/TTezla" height="30" width="30" /></a> 
-            <a href="www.linkedin.com/in/tishenko-bogdan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="32" width="32" /></a>
+            <a href="https://www.linkedin.com/in/tishenko-bogdan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="32" width="32" /></a>
         </p>
         <h3 align="left">Languages and Tools:</h3>
         <p align="center">
