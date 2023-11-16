@@ -15,7 +15,7 @@
 
 - 🎓 I’m currently studying at **Krivoy Rog National University**
 
-- 📫 How to reach me **Telegram - @TTezla**
+- 📫 How to reach me **Telegram - <a href="https://t.me/TTezla">@TTezla**</a>
 
     <div>
         <h3 align="left">Connect with me:</h3>
