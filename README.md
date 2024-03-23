@@ -23,7 +23,7 @@
             <a href="https://t.me/TTezla" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://t.me/TTezla" height="30" width="30" /></a> 
             <a href="https://www.linkedin.com/in/tishenko-bogdan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="32" width="32" /></a>
         </p>
-        <h3 align="left">Languages and Tools:</h3>
+<!--         <h3 align="left">Languages and Tools:</h3>
         <p align="center">
             <div>
                 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -54,5 +54,5 @@
                 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.coursehunter.net/category/c-sharp-c.png" alt="csharp" width="35" height="40"/> </a>
                 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="cplusplus" width="40" height="40"/> </a>
             </div>
-        </p>    
-    </div>
+        </p>     -->
+  </div>
