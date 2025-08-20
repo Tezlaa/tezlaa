@@ -1,5 +1,3 @@
-<h1 align="center">Software Engineer🐍 from Ukraine🔥</h1>
-
 <div align="center">
   <img width="844" height="199" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tezlaa&theme=github_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tezlaa&theme=github_dark&utcOffset=+2">
@@ -12,8 +10,6 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=10000&pause=1000&color=0CA71D&width=435&height=30&lines=Hello+world!+I`m+Bogdan.)](https://git.io/typing-svg)
-
-- 🎓 I’m currently studying at **Krivoy Rog National University**
 
 - 📫 How to reach me **Telegram - <a href="https://t.me/TTezla">@TTezla**</a>
 
